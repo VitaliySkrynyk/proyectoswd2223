@@ -115,5 +115,15 @@
       "alt": "Logotip Clara Milian",
       "texto": "Web per l’artista amb un ampli recorregut com il·lustradora i animadora 2D. Actualment en Mont-real, Canadà. Clica per saber-ne més",
       "url": "https://nuriatorres22.github.io/Clara_Milian/"
+       },
+      {
+      "id":14,
+      "autor": "Vitaliy Skrynyk i Quim Riba",
+      "titulo": "Joieria Satya",
+      "srcimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzSzwXHl6HgyI3njPt_H9xcMWcggt5LVEXlA&usqp=CAU",
+      "alt": "Logotip Joieria",
+      "texto": "Web de catàleg per consultar i comprar accessuaris de luxe",
+      "url": "https://vitaliyskrynyk.github.io/Joieria-Satya/"
        }
+      
 ]
